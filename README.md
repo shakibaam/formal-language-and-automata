@@ -1,3 +1,3 @@
 # formal-language-and-automata
-check the finite deterministic automata accept a string ,  
+Check the finite deterministic automata accept a string and  
 convert nondeterministic automata to deterministic automata
